@@ -1,20 +1,20 @@
-#Propuesta TP DSW <br>
-#Integrantes <br>
+𝐏𝐫𝐨𝐩𝐮𝐞𝐬𝐭𝐚 𝐓𝐏 𝐃𝐒𝐖 <𝐛𝐫>
+𝐈𝐧𝐭𝐞𝐠𝐫𝐚𝐧𝐭𝐞𝐬 <𝐛𝐫>
 53958 - Gudiño, Octavio Alejandro <br>
 54241 - Salomon, Emanuel <br> 
 54279 - Scollo, Renzo <br>
 54307 - Testi, Franco  <br> 
 54342 - Ciesco, Alejandro Mario<br>
 
-#Repositorios<br>
+𝐑𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐢𝐨𝐬<𝐛𝐫>
 frontend app<br>
 backend app <br>
 
-#Tema
-#Descripción
+𝐓𝐞𝐦𝐚
+𝐃𝐞𝐬𝐜𝐫𝐢𝐩𝐜𝐢𝐨́𝐧
 Trata de un gestor de turnos para partidas de juegos de Rol, con sistema de compra-venta de objetos del juego en las partidas, con registro y logueo tanto para “Jugador” como “Anfitrión” y sistema para crear personajes de rol.
 
-Modelo
+𝐌𝐨𝐝𝐞𝐥𝐨
 LINK:https://drive.google.com/file/d/1-zXEpOdd3ASk3xKuXXNHCWMKxyeTyydU/view?usp=sharing
 ![Texto alternativo](ModeloDominio.drawio.png)
 
@@ -38,12 +38,10 @@ Adicionales para Aprobación
 |Req|Detalle|
 |:-|:-|
 |CRUD |1. CRUD Usuario<br>2. CRUD Objeto <br>3. CRUD Partida <br>4. CRUD Tienda<br>5. CRUD Misión<br>6. CRUD Personaje<br>7. CRUD Jugador <br>8.CRUD Sesión <br>9. CRUD Anfitrión <br>10. CRUD Inventario|
-|CUU/Epic|1. Gestionar inventario<br>2. Calificar anfitrión<br>3. Realizar el check-out y facturación de estadía y servicios|
+|CUU/Epic|1. Gestionar inventario<br>2. Calificar anfitrión<br>3.|
 
 
 ### Alcance Adicional Voluntario
-
-*Nota*: El Alcance Adicional Voluntario es opcional, pero ayuda a que la funcionalidad del sistema esté completa y será considerado en la nota en función de su complejidad y esfuerzo.
 
 |Req|Detalle|
 |:-|:-|
