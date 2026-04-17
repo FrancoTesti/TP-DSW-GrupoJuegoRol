@@ -1,22 +1,22 @@
-# Propuesta TP DSW
+#Propuesta TP DSW
+#Integrantes
+53958 - Gudiño, Octavio Alejandro
+54241 - Salomon, Emanuel
+54279 - Scollo, Renzo
+54307 - Testi, Franco 
+54342 - Ciesco, Alejandro Mario
 
-## Grupo
-### Integrantes
-* legajo - Apellido(s), Nombre
-* 54279 - Scollo, Renzo
-### Repositorios
-* [frontend app](http://hyperlinkToGihubOrGitlab)
-* [backend app](http://hyperlinkToGihubOrGitlab)
-*Nota*: si utiliza un monorepo indicar un solo link con fullstack app.
+#Repositorios
+frontend app
+backend app 
 
-## Tema
-### Descripción
-*2 a 6 líneas describiendo el negocio (menos es más)*
+#Tema
+#Descripción
+Trata de un gestor de turnos para partidas de juegos de Rol, con sistema de compra-venta de objetos del juego en las partidas, con registro y logueo tanto para “Jugador” como “Anfitrión” y sistema para crear personajes de rol.
 
-### Modelo
-![imagen del modelo]()
-
-*Nota*: incluir un link con la imagen de un modelo, puede ser modelo de dominio, diagrama de clases, DER. Si lo prefieren pueden utilizar diagramas con [Mermaid](https://mermaid.js.org) en lugar de imágenes.
+Modelo
+LINK:https://drive.google.com/file/d/1-zXEpOdd3ASk3xKuXXNHCWMKxyeTyydU/view?usp=sharing
+![Uploading image.png…]()
 
 ## Alcance Funcional 
 
