@@ -2,7 +2,7 @@
 
 ## Grupo
 ### Integrantes
-* legajo - Apellido(s), Nombre(s)
+* legajo - Apellido(s), Nombre
 
 ### Repositorios
 * [frontend app](http://hyperlinkToGihubOrGitlab)
