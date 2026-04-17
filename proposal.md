@@ -8,15 +8,16 @@
 54307 - Testi, Franco  <br> 
 54342 - Ciesco, Alejandro Mario<br>
 
-𝐑𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐢𝐨𝐬 <br>
+### Repositorios
 frontend app<br>
 backend app <br>
 
-𝐓𝐞𝐦𝐚 <br>
-𝐃𝐞𝐬𝐜𝐫𝐢𝐩𝐜𝐢𝐨́𝐧
+
+## Tema
+### Descripción
 Trata de un gestor de turnos para partidas de juegos de Rol, con sistema de compra-venta de objetos del juego en las partidas, con registro y logueo tanto para “Jugador” como “Anfitrión” y sistema para crear personajes de rol.
 
-𝐌𝐨𝐝𝐞𝐥𝐨
+### Modelo
 LINK:https://drive.google.com/file/d/1-zXEpOdd3ASk3xKuXXNHCWMKxyeTyydU/view?usp=sharing
 ![Texto alternativo](ModeloDominio.drawio.png)
 
