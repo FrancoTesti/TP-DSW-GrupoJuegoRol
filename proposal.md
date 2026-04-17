@@ -1,4 +1,5 @@
-𝐏𝐫𝐨𝐩𝐮𝐞𝐬𝐭𝐚 𝐓𝐏 𝐃𝐒𝐖 <br>
+# Propuesta TP DSW
+
 𝐈𝐧𝐭𝐞𝐠𝐫𝐚𝐧𝐭𝐞𝐬  <br>
 53958 - Gudiño, Octavio Alejandro <br>
 54241 - Salomon, Emanuel <br> 
