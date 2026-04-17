@@ -1,6 +1,7 @@
 # Propuesta TP DSW
 
-𝐈𝐧𝐭𝐞𝐠𝐫𝐚𝐧𝐭𝐞𝐬  <br>
+## Grupo
+### Integrantes
 53958 - Gudiño, Octavio Alejandro <br>
 54241 - Salomon, Emanuel <br> 
 54279 - Scollo, Renzo <br>
