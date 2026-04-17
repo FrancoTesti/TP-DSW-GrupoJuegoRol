@@ -9,9 +9,8 @@
 54342 - Ciesco, Alejandro Mario<br>
 
 ### Repositorios
-frontend app<br>
-backend app <br>
-
+* [frontend app](http://hyperlinkToGihubOrGitlab)
+* [backend app](http://hyperlinkToGihubOrGitlab)
 
 ## Tema
 ### Descripción
