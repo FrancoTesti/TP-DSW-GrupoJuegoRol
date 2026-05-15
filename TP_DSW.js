@@ -130,15 +130,15 @@ class Personaje {
   }
 
 
-  static obtenerRazasValidas(); {
+  static obtenerRazasValidas(){
   return [...Personaje.razasValidas];
 }
 
-obtenerRaza(); {
+obtenerRaza(){
   return this.raza;
 }
 
-cambiarRaza(nuevaRaza); {
+cambiarRaza(nuevaRaza){
   if (!Personaje.validarRaza(nuevaRaza)) {
     console.log(`Raza inválida: ${nuevaRaza}`);
     return false;
@@ -147,7 +147,7 @@ cambiarRaza(nuevaRaza); {
   return true;
 }
 
-comprarObjeto(objeto); {
+comprarObjeto(objeto){
   if (this.dinero < objeto.valor) return false;
   // Ahora le delegamos al inventario la tarea de agregarlo
   if (this.inventario.agregarObjeto(objeto)) {
@@ -157,7 +157,7 @@ comprarObjeto(objeto); {
   return false;
 }
 
-otorgarRecompensaMision(mision);: {
+otorgarRecompensaMision(mision){
   this.xp += mision.xpOtorgadoJugadores; // suma la experiencia otorgada por la misión al personaje
   this.dinero += mision.dineroOtorgadoAJugadores; // suma el dinero otorgado por la misión al personaje
   this.nivel = Math.floor(this.xp / 1000) + 1; /* calcula el nivel del personaje 
@@ -557,7 +557,7 @@ equiparObjeto(idObjeto); {
     }
   }
 }
-iniciarVenta(idObjeto, personaje, tienda);: {
+iniciarVenta(idObjeto, personaje, tienda);{
   tienda.comprarAlJugador(personaje, idObjeto);
 }
 //Clase personaje
@@ -577,7 +577,7 @@ venderObjeto(idObjeto, precioPropuesto); {
 
 /*com rarObjeto(personaje, idObjeto)*/ { }
 
-iniciarVenta(idObjeto, personaje, tienda);: {
+iniciarVenta(idObjeto, personaje, tienda);{
   tienda.comprarAlJugador(personaje, idObjeto);
 }
 //Clase personaje
@@ -595,7 +595,7 @@ venderObjeto(idObjeto, factor); {
 
 }
 
-comprarObjeto(personaje, idObjeto) {
+comprarObjeto(personaje, idObjeto);{
 
   const indexObjeto = this.objetos.findIndex(
     obj => obj.id === idObjeto
@@ -612,7 +612,7 @@ comprarObjeto(personaje, idObjeto) {
 
     this.objetos.splice(indexObjeto, 1);
 
-    console.log(Compra realizada: ${ objeto.nombre });
+    console.log("Compra realizada: ${ objeto.nombre}");
 
     return true;
   }
@@ -622,7 +622,7 @@ comprarObjeto(personaje, idObjeto) {
   return false;
 }
 
-comprarObjeto(personaje, idObjeto) {
+comprarObjeto(personaje, idObjeto);{
 
   const indexObjeto = this.objetos.findIndex(
     obj => obj.id === idObjeto
